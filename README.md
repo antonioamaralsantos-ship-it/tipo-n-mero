@@ -1,1 +1,1 @@
-# tipo-n-mero
+# tipo-numero
